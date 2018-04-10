@@ -1,5 +1,5 @@
 # SAS_Registry_Hack
-SAS_Registry_Hack (Super Administrator Soppressor)is a Simple Reg. File 
+SAS_Registry_Hack (Super Administrator Suppressor)is a Simple Reg. File 
 </br>
 which totally disables every user control (UAC) and a little more ....
 
